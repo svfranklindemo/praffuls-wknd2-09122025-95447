@@ -1,13 +1,19 @@
 {
   "mappings": [
     "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/en:/",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/en/:/",
     "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/en/:/en/",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/fr/:/fr/",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/fr:/fr",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/es/:/es/",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/es:/es",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/ja/:/ja/",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/ja:/ja",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/de/:/de/",
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/de:/de",
     "/content/praffuls-praffuls-wknd-09-dec-03-24/configuration:/.helix/config.json",
     "/content/praffuls-praffuls-wknd-09-dec-03-24/metadata:/metadata.json",
     "/content/praffuls-praffuls-wknd-09-dec-03-24/redirects:/redirects.json",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/placeholders:/placeholders.json",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/praffuls-praffuls-wknd-09-dec-03-24/placeholders:/placeholders.json"
   ],
   "includes": [
     "/content/praffuls-praffuls-wknd-09-dec-03-24/",
